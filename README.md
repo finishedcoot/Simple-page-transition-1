@@ -1,3 +1,8 @@
+## Description
+This is a very simple presentation of a smooth page transition, made with react,sass and framer-motion
+
+![](https://github.com/finishedcoot/Simple-page-transition-1/blob/main/pagetransition1.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
