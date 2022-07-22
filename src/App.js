@@ -29,7 +29,7 @@ function App() {
         <Routes location={location} key={location.pathname}>
           <Route path="/" element={<Home imageDetails={imageDetails} />} />
           <Route
-            path="/model/:id"
+            path="/model/kitty"
             element={<Model imageDetails={imageDetails} />}
           />
         </Routes>

@@ -19,7 +19,7 @@ const Home = ({ imageDetails, image }) => (
               }}
             >
               <div className="frame">
-                <Link to={`/model/yasmeen-tariq`}>
+                <Link to={`/model/kitty`}>
                   <motion.img
                     alt="Yasmeen Tariq"
                     whileHover={{ scale: 1.1 }}

@@ -129,7 +129,7 @@ const Model = ({ imageDetails }) => {
                     initial={{ scale: 1.0 }}
                     animate={{
                       transition: { delay: 0.2, ...transition },
-                      y: window.innerWidth > 1440 ? -1200 : -600,
+                      y: window.innerWidth > 1440 ? -800 : -700,
                     }}
                   />
                 </motion.div>
